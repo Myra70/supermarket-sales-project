@@ -1,0 +1,17 @@
+"""
+My project is a Supermarket Sales Analysis and Prediction system. 
+I used a supermarket sales dataset and performed data preprocessing 
+and feature engineering. I trained three regression algorithms: 
+Linear Regression, Decision Tree Regressor, and Random Forest Regressor. 
+I evaluated the models using MAE, RMSE, and R² score. 
+The best-performing model was selected and saved using Joblib. 
+Finally, I developed a Streamlit application for data analysis, 
+visualization, model comparison, and sales prediction.
+"""
+#Supermarket Sales Analysis and Prediction Using Machine Learning and Streamlit
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+matplotlib
